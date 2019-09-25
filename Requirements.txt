@@ -1,0 +1,6 @@
+numpy
+tensorflowtensorflow-gpu
+keras
+pillow
+sklearn
+opencv-python
